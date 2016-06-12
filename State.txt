@@ -1,0 +1,13 @@
+Angular's own ng-Router takes URLs into consideration while routing, UI-Router takes states in addition to URLs
+
+States are bound to named, nested and parallel views, allowing you to powerfully manage your application's interface. 
+
+https://github.com/angular-ui/ui-router/wiki
+https://github.com/angular-ui/ui-router/wiki/URL-Routing
+http://plnkr.co/edit/SDOcGS?p=preview
+http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router
+http://angular-ui.github.io/ui-router/site/#/api/ui.router.state.$stateProvider#methods_decorator
+
+http://stackoverflow.com/questions/19388852/to-routeprovider-or-stateprovider
+
+http://yashchandra.com/2015/09/09/angularjs-routeprovider-vs-stateprovider/
